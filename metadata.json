@@ -1,0 +1,6 @@
+{
+  "name": "Neo FMS 1.21",
+  "description": "Neo Fraud Management System (FMS) 1.21 - Enterprise real-time fraud & AML defense platform with Batch Upload List Management, Maker-Checker Workflow, AML Master Blacklist (Online Gambling / Judol, Prohibited Entities & Individuals), Process EOD Engine & Orchestration (Task, List Process, Manual Execution), System Parameter Management, Audit Trail, and dynamic risk scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
